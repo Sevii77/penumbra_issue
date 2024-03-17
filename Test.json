@@ -1,0 +1,11 @@
+{
+	"Author": "Sevii",
+	"Name": "Penumbra Issue",
+	"Punchline": "",
+	"Description": "",
+	"InternalName": "Test",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 9,
+	"LoadPriority": 1,
+	"Tags": []
+}
